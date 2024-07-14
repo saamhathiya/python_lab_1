@@ -1,0 +1,12 @@
+name=["rohan","rohit","kevin"]
+name.insert(1,"jaypal")
+print("add method:")
+print(name)
+print()
+print("remove method:")
+name.remove("kevin")
+print(name)
+print()
+print("append method")
+name.append("rahul")
+print(name)
